@@ -1,9 +1,4 @@
-// Crear una clase de animales: crear una clase de animales que incluya atributos como nombre, edad
-// y tipo de animal, y métodos para alimentar y hacer sonidos. Los estudiantes también pueden crear
-// objetos para representar diferentes animales y llamar a los métodos correspondientes para
-// interactuar con ellos.
-// a) ¿Qué métodos son necesarios para hacer sonidos y alimentar a los animales?
-// b) ¿Cómo se pueden crear diferentes objetos para representar diferentes animales?
+
 #include <iostream>
 using namespace std;
 
